@@ -8,7 +8,7 @@
     "208": {
       "title": "Звезда и масло (4)",
       "volume": "23",
-      "last_updated": "1616368746",
+      "last_updated": "1672823280",
       "groups": {
         "Kogane Team": "/proxy/api/imgur/chapter/0uwd7ej/"
       }
@@ -16,7 +16,7 @@
     "209": {
       "title": "Подношение неизвестному",
       "volume": "23",
-      "last_updated": "1676054620",
+      "last_updated": "1672857820",
       "groups": {
         "Kogane Team": "/proxy/api/imgur/chapter/ScXUf7f"
       }
@@ -24,17 +24,25 @@
     "210": {
       "title": "Приношение неизвестному (2)",
       "volume": "24",
-      "last_updated": "1676055401",
+      "last_updated": "1674184980",
       "groups": {
         "Kogane Team": "/proxy/api/imgur/chapter/RhXKB8f"
       }
     },
     "211": {
-      "title": "Проклятое Чрево, под небесами. Часть 6",
+      "title": "Созревание",
       "volume": "24",
-      "last_updated": "1677203916",
+      "last_updated": "1674806400",
       "groups": {
-        "Kogane Team": "/proxy/api/imgur/chapter/HKS0ME0"
+        "Kogane Team": "/proxy/api/imgur/chapter/Al1zEcs"
+      }
+    },
+    "212": {
+      "title": "Нагноение (2)",
+      "volume": "24",
+      "last_updated": "1675386300",
+      "groups": {
+        "Kogane Team": "/proxy/api/imgur/chapter/B4BhwMW"
       }
     }
   }

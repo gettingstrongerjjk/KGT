@@ -84,6 +84,46 @@
       "groups": {
         "Kogane Team": "/proxy/api/imgur/chapter/O8CtwuZ"
       }
+    },
+    "218": {
+      "title": "Ванна (3)",
+      "volume": "25",
+      "last_updated": "1680220800",
+      "groups": {
+        "Kogane Team": "/proxy/api/imgur/chapter/vG59IMi"
+      }
+    },
+    "219": {
+      "title": "Ванна (4)",
+      "volume": "25",
+      "last_updated": "1680830400",
+      "groups": {
+        "Kogane Team": "/proxy/api/imgur/chapter/swtYpqT"
+      }
+    },
+    "220": {
+      "title": "Самоочищение, самосвязывание",
+      "volume": "25",
+      "last_updated": "1681456920",
+      "groups": {
+        "Kogane Team": "/proxy/api/imgur/chapter/MixvS8v"
+      }
+    },
+    "221": {
+      "title": "Приобретение и Потеря",
+      "volume": "25",
+      "last_updated": "1682063100",
+      "groups": {
+        "Kogane Team": "/proxy/api/imgur/chapter/TTyDVzu"
+      }
+    },
+    "222": {
+      "title": "Предвестие",
+      "volume": "25",
+      "last_updated": "1683856800",
+      "groups": {
+        "Kogane Team": "/proxy/api/imgur/chapter/dLXmFli"
+      }
     }
   }
 }

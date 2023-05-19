@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/bkYBaMV.png",
   "chapters": {
     "208": {
-      "title": "Звезда и масло (4)",
+      "title": "Звезда и масло ④",
       "volume": "23",
       "last_updated": "1672823280",
       "groups": {
@@ -22,7 +22,7 @@
       }
     },
     "210": {
-      "title": "Приношение неизвестному (2)",
+      "title": "Приношение неизвестному ②",
       "volume": "24",
       "last_updated": "1674184980",
       "groups": {
@@ -38,7 +38,7 @@
       }
     },
     "212": {
-      "title": "Нагноение (2)",
+      "title": "Нагноение ②",
       "volume": "24",
       "last_updated": "1675386300",
       "groups": {
@@ -78,7 +78,7 @@
       }
     },
     "217": {
-      "title": "Ванна (2)",
+      "title": "Ванна ②",
       "volume": "24",
       "last_updated": "1678990140",
       "groups": {
@@ -86,7 +86,7 @@
       }
     },
     "218": {
-      "title": "Ванна (3)",
+      "title": "Ванна ③",
       "volume": "25",
       "last_updated": "1680220800",
       "groups": {
@@ -94,7 +94,7 @@
       }
     },
     "219": {
-      "title": "Ванна (4)",
+      "title": "Ванна ④",
       "volume": "25",
       "last_updated": "1680830400",
       "groups": {
@@ -123,6 +123,14 @@
       "last_updated": "1683856800",
       "groups": {
         "Kogane Team": "/proxy/api/imgur/chapter/dLXmFli"
+      }
+    },
+    "223": {
+      "title": "Земли дьявола, Противостояние в Синдзюку ①",
+      "volume": "25",
+      "last_updated": "1684455300",
+      "groups": {
+        "Kogane Team": "/proxy/api/imgur/chapter/0dQ0mIt"
       }
     }
   }

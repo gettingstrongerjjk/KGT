@@ -142,11 +142,19 @@
       }
     },
     "225": {
-      "title": "225 глава: Земли дьявола, противостояние в Синдзюку ③",
+      "title": "Земли дьявола, противостояние в Синдзюку ③",
       "volume": "25",
       "last_updated": "1686321801",
       "groups": {
         "Kogane Team": "/proxy/api/imgur/chapter/1Lxawzp"
+      }
+    },
+    "226": {
+      "title": "Земли дьявола, противостояние в Синдзюку ④",
+      "volume": "25",
+      "last_updated": "1686897706",
+      "groups": {
+        "Kogane Team": "/proxy/api/imgur/chapter/5Fxelia"
       }
     }
   }
